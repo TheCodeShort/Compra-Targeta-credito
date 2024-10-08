@@ -4,9 +4,9 @@ package Menu;
 public class MenuSeleccion {
 
 	private String menu = """
-			1) Ingresa el liminte de la targeta.
-			2) Realizar compra.
-			3) Mostrar historial de compra.
+			1) Realizar compra.
+			2) Mostrar historial de compra.
+			3) Salir.
 			""";
 
 	private int obcion;
