@@ -1,10 +1,19 @@
 package Modelos;
 
-import java.util.Scanner;
-
 public class LimiteDeTargeta {
 
-	Scanner teclado = new Scanner(System.in);
+	private double limiteTargeta;
+
+
+	public double getLimiteTargeta() {
+		return limiteTargeta;
+	}
+
+	public void setLimiteTargeta(double limiteTargeta) {
+		 this.limiteTargeta = limiteTargeta;
+	}
+
+
 
 
 

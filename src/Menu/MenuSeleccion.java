@@ -1,7 +1,5 @@
 package Menu;
 
-import java.util.Scanner;
-
 
 public class MenuSeleccion {
 
@@ -13,19 +11,16 @@ public class MenuSeleccion {
 
 	private int obcion;
 
-	public String getMenu() {
+	public void getMenu() {
 		System.out.println(menu);
-		return menu;
 	}
 
 	public int getObcion() {
-
 		return obcion;
 	}
 
 	public void setObcion(int obcion) {
 		this.obcion = obcion;
-
 	}
 }
 
