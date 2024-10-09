@@ -1,7 +1,9 @@
 package Menu;
 
 
-public class MenuSeleccion {
+import Modelos.LimiteDeTargeta;
+
+public class MenuSeleccion extends LimiteDeTargeta {
 
 	private String menu = """
 			1) Realizar compra.

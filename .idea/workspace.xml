@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b3862577-bed8-4fb9-8d3b-3f3cdbe6ab49" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Menu/MenuSeleccion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Menu/MenuSeleccion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modelos/LimiteDeTargeta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modelos/LimiteDeTargeta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Modelos/RealizarCompras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modelos/RealizarCompras.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal/Principal.java" afterDir="false" />
     </list>
@@ -25,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "TheCodeShort"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/TheCodeShort/Compra-Targeta-credito.git",
+    "accountId": "eea0e9ca-1b97-42c2-84a2-3bbe3b1074ca"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
